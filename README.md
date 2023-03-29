@@ -67,8 +67,53 @@ ejercicio_clase/9/03/2023----miguel grisales
 62. **font-family**	Establece la familia de fuentes de texto
 63. # QUE ES DISPLAY BLOCK
 El valor block en la propiedad display en CSS representa un elemento como un bloque y es uno de los tipos de display css. Una forma de entender esto es pensar en los bloques como elementos que van de lado a lado de la pantalla, como sería un párrafo.
+
 64. # QUE ES INLINE Y INLINE BLOCK
+
 Los elementos inline-block fluyen con el texto y demás elementos como si fueran elementos en-línea y además respetan el ancho, el alto y los márgenes verticales. Son lo mejor de los dos mundos.
 
+**MENCIONAR EN LA CONSULTA ANTERIOR DE LAS ETIQUETAS CUALES SON ETIQUETAS BLOCK,INLINE E INLINE-BLOCK**
+ 
+65. **etiquetas block son**: p** Etiqueta usada para escribir párrafos de texto y h1,h2,h3,h4,h5,h6 Son etiquetas HTML muy importantes, ya que son usadas para jerarquizar el contenido de la web. Las etiquetas se usan para explicar brevemente el contenido que irá a continuación.
 
+66. **inline e inline block**: block: hace que el comportamiento del elemento sea como un bloque,inline: el elemento se renderizará en línea con otros elementos y inline-block: el elemento tendrá un comportamiento mezcla entre los dos anteriores, que ahora voy a describir.
 
+**CUALES SON LOS EVENTOS EN JAVASCRIPT**
+
+67. **onblur**	  Un elemento pierde el foco	<button>, <input>, <label>, <select>, <textarea>, <body>
+
+68. **onchange**	Un elemento ha sido modificado	<input>, <select>, <textarea>
+
+69. **onclick**	Pulsar y soltar el ratón	Todos los elementos
+
+70. **ondblclick**	Pulsar dos veces seguidas con el ratón	Todos los elementos
+
+71.**onfocus**	Un elemento obtiene el foco	<button>, <input>, <label>, <select>, <textarea>, <body>
+
+72. **onkeydown**	Pulsar una tecla y no soltarla	Elementos de formulario y <body>
+
+73. **onkeypress**	Pulsar una tecla	Elementos de formulario y <body>
+
+74. **onkeyup**	Soltar una tecla pulsada	Elementos de formulario y <body>
+
+75. **onload**	Página cargada completamente	<body>
+
+76. **onmousedown**	Pulsar un botón del ratón y no soltarlo	Todos los elementos
+
+77. **onmousemove**	Mover el ratón	Todos los elementos
+
+78. **onmouseout**	El ratón "sale" del elemento	Todos los elementos
+
+79**onmouseover**	El ratón "entra" en el elemento	Todos los elementos
+
+80. **onmouseup**	Soltar el botón del ratón	Todos los elementos
+
+81. **onreset**	Inicializar el formulario	<form>
+
+82. **onresize**	Modificar el tamaño de la ventana	<body>
+
+83. **onselect**	Seleccionar un texto	<input>, <textarea>
+
+84. **onsubmit**	Enviar el formulario	<form>
+
+85. **onunload**	Se abandona la página, por ejemplo al cerrar el navegador	<body>
