@@ -72,7 +72,7 @@ El valor block en la propiedad display en CSS representa un elemento como un blo
 
 Los elementos inline-block fluyen con el texto y demás elementos como si fueran elementos en-línea y además respetan el ancho, el alto y los márgenes verticales. Son lo mejor de los dos mundos.
 
-**MENCIONAR EN LA CONSULTA ANTERIOR DE LAS ETIQUETAS CUALES SON ETIQUETAS BLOCK,INLINE E INLINE-BLOCK**
+** CUALES SON ETIQUETAS BLOCK,INLINE E INLINE-BLOCK**
  
 65. **etiquetas block son**: p** Etiqueta usada para escribir párrafos de texto y h1,h2,h3,h4,h5,h6 Son etiquetas HTML muy importantes, ya que son usadas para jerarquizar el contenido de la web. Las etiquetas se usan para explicar brevemente el contenido que irá a continuación.
 
@@ -80,40 +80,27 @@ Los elementos inline-block fluyen con el texto y demás elementos como si fueran
 
 **CUALES SON LOS EVENTOS EN JAVASCRIPT**
 
-67. **onblur**	  Un elemento pierde el foco	<button>, <input>, <label>, <select>, <textarea>, <body>
+65. **onblur**	Un elemento pierde el foco
+66. **onchange**	Un elemento ha sido modificado
+67. **onclick**	Pulsar y soltar el ratón
+68. **ondblclick**	Pulsar dos veces seguidas con el ratón
+69. **onfocus**	Un elemento obtiene el foco
+70. **onkeydown**	Pulsar una tecla y no soltarla
+71. **onkeypress**	Pulsar una tecla
+72. **onkeyup**	Soltar una tecla pulsada
+73. **onload**	Página cargada completamente
+74. **onmousedown**	Pulsar un botón del ratón y no soltarlo
+75. **onmousemove**	Mover el ratón
+76. **onmouseout**	El ratón "sale" del elemento
+77. **onmouseover**	El ratón "entra" en el elemento
+78. **onmouseup**	Soltar el botón del ratón
+79. **onreset**	Inicializar el formulario
+80. **onresize**	Modificar el tamaño de la ventana
+81. **onselect**	Seleccionar un texto
+82. **onsubmit**	Enviar el formulario
+83. **onunload**	Se abandona la página, por ejemplo al cerrar el navegador
 
-68. **onchange**	Un elemento ha sido modificado	<input>, <select>, <textarea>
+**QUE SON LOS SELECTORES SIMPLES Y COMPUESTOS**
 
-69. **onclick**	Pulsar y soltar el ratón	Todos los elementos
-
-70. **ondblclick**	Pulsar dos veces seguidas con el ratón	Todos los elementos
-
-71.**onfocus**	Un elemento obtiene el foco	<button>, <input>, <label>, <select>, <textarea>, <body>
-
-72. **onkeydown**	Pulsar una tecla y no soltarla	Elementos de formulario y <body>
-
-73. **onkeypress**	Pulsar una tecla	Elementos de formulario y <body>
-
-74. **onkeyup**	Soltar una tecla pulsada	Elementos de formulario y <body>
-
-75. **onload**	Página cargada completamente	<body>
-
-76. **onmousedown**	Pulsar un botón del ratón y no soltarlo	Todos los elementos
-
-77. **onmousemove**	Mover el ratón	Todos los elementos
-
-78. **onmouseout**	El ratón "sale" del elemento	Todos los elementos
-
-79**onmouseover**	El ratón "entra" en el elemento	Todos los elementos
-
-80. **onmouseup**	Soltar el botón del ratón	Todos los elementos
-
-81. **onreset**	Inicializar el formulario	<form>
-
-82. **onresize**	Modificar el tamaño de la ventana	<body>
-
-83. **onselect**	Seleccionar un texto	<input>, <textarea>
-
-84. **onsubmit**	Enviar el formulario	<form>
-
-85. **onunload**	Se abandona la página, por ejemplo al cerrar el navegador	<body>
+84. Un selector simple es aquel que está formado sólo por una única cadena textual, sin ningún combinador.
+85. El Selector complejo es una secuencia o cadena de selectores separados por combinadores .
